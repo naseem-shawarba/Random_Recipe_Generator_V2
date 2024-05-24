@@ -11,8 +11,8 @@ Random Recipe Generator is an interactive web application that generates random 
 
 ## Screenshots
 
-#![Screenshot1](https://github.com/naseem-shawarba/Random_Recipe_Generator_v2/blob/main/public/screenshot1.png)
-#![Screenshot2](https://github.com/naseem-shawarba/Random_Recipe_Generator_v2/blob/main/public/screenshot2.png)
+#![Screenshot1](https://github.com/naseem-shawarba/Projects_Screenshots/blob/main/Random_Recipe_Generator_V2/Screenshot1.png)
+#![Screenshot2](https://github.com/naseem-shawarba/Projects_Screenshots/blob/main/Random_Recipe_Generator_V2/Screenshot2.png)
 
 ## TO-DO
 * Style the RandomRecipeForm.vue component
